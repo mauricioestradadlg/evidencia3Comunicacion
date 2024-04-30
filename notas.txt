@@ -1,0 +1,21 @@
+Tu tarea es crear una entrada en un Blog que servirá como tu portafolio digital. Incluye la siguiente información:
+
+Objetivo
+
+Educación
+
+Experiencia
+
+Habilidades
+
+Certificaciones
+
+Idiomas
+
+Referencias
+
+Cinco recursos que pueden ser fotos, ligas a documentos en formato PDF 
+y videos de trabajos realizados por ti y que sean relevantes a la carrera 
+que estás estudiando.
+
+Comparte con tu profesor el enlace de tu portafolio digital.

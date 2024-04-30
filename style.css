@@ -1,0 +1,22 @@
+
+
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+
+ul li, h1, h3, p{
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 60px;
+}
+
+div{
+    background-color: rgb(255, 0, 0);
+   
+}
